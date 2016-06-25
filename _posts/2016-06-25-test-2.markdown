@@ -1,0 +1,6 @@
+---
+published: true
+title: Test 2
+layout: post
+---
+Will it work?
