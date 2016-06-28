@@ -4,3 +4,5 @@ title: Test 2
 layout: post
 ---
 Will it work?
+Idon't think so...
+![images.png]({{site.baseurl}}/_posts/images.png)
