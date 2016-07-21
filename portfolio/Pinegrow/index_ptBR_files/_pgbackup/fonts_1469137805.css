@@ -1,0 +1,11 @@
+
+
+@font-face{
+  font-family: 'centrale_sans_roundedbook';
+  src: url('docs/assets/fonts/central-sans-rounded/centralesansrndbook-webfont.eot');
+  src: url('docs/assets/fonts/central-sans-rounded/centralesansrndbook-webfont.eot?#iefix') format('embedded-opentype'), url('docs/assets/fonts/central-sans-rounded/centralesansrndbook-webfont.woff2') format('woff2'), url('docs/assets/fonts/central-sans-rounded/centralesansrndbook-webfont.woff') format('woff'), url('docs/assets/fonts/central-sans-rounded/centralesansrndbook-webfont.ttf') format('truetype'), url('docs/assets/fonts/central-sans-rounded/centralesansrndbook-webfont.svg#centrale_sans_roundedbook') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
