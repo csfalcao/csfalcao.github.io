@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for Holibeds</title>
+	<atom:link href="http://holibeds.com/en/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://holibeds.com/en</link>
+	<description>Short term rentals for Christians</description>
+	<lastBuildDate>Fri, 15 Jan 2016 10:40:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.4</generator>
+	<item>
+		<title>Comment on Hello world! by Mr WordPress</title>
+		<link>http://holibeds.com/en/hello-world/#comment-1</link>
+		<dc:creator><![CDATA[Mr WordPress]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2016 10:40:54 +0000</pubDate>
+		<guid isPermaLink="false">http://holibeds.com/?p=1#comment-1</guid>
+		<description><![CDATA[Hi, this is a comment.
+To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></description>
+		<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on West Town 3rd Floor Dorm by mariademo</title>
+		<link>http://holibeds.com/en/properties/west-town-3rd-floor-dorm/#comment-11</link>
+		<dc:creator><![CDATA[mariademo]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2015 12:35:31 +0000</pubDate>
+		<guid isPermaLink="false">http://demo1.wprentals.org/?post_type=estate_property&#038;p=149#comment-11</guid>
+		<description><![CDATA[The flat was very clean and perfectly in line with the pictures, close to arsenal station and very quiet. We will return definitely.]]></description>
+		<content:encoded><![CDATA[<p>The flat was very clean and perfectly in line with the pictures, close to arsenal station and very quiet. We will return definitely.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Modern &#038; Spacious Villa by mariademo</title>
+		<link>http://holibeds.com/en/properties/modern-spacious-villa/#comment-10</link>
+		<dc:creator><![CDATA[mariademo]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2015 12:35:08 +0000</pubDate>
+		<guid isPermaLink="false">http://demo1.wprentals.org/?post_type=estate_property&#038;p=141#comment-10</guid>
+		<description><![CDATA[Anne&#039;s place is a lovely flat in a quiet area of London with all commodities around. Is a perfect place to go in London near the Arsena station witch bring you directly to Picadilly. We will definitively return.]]></description>
+		<content:encoded><![CDATA[<p>Anne&#8217;s place is a lovely flat in a quiet area of London with all commodities around. Is a perfect place to go in London near the Arsena station witch bring you directly to Picadilly. We will definitively return.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
